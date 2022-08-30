@@ -1,2 +1,1 @@
-# Python
-Aulas de Python
+Exercícios de Python, separados por aulas.
